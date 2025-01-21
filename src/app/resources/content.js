@@ -128,12 +128,16 @@ const about = {
         role: 'Lead Designer',
         achievements: [
           <>
-            Developed a design system that unified the brand across multiple
-            platforms, improving design consistency by 40%.
+            Developed AI-Driven Financial Platform: Contributed to building an
+            AI-powered financial intelligence platform.
           </>,
           <>
-            Led a cross-functional team to launch a new product line,
-            contributing to a 15% increase in overall company revenue.
+            Improved Scalability and Infrastructure: Migrated legacy systems to
+            Azure with Docker and Kubernetes.
+          </>,
+          <>
+            Delivered Insights and Integrations: Built analytics dashboards with
+            D3.js and Elasticsearch and integrated payment systems.
           </>,
         ],
         images: [],
