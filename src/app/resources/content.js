@@ -148,12 +148,18 @@ const about = {
         role: 'Lead Designer',
         achievements: [
           <>
-            Developed a design system that unified the brand across multiple
-            platforms, improving design consistency by 40%.
+            Developed SaaS Solutions: Contributed to building SaaS products for
+            non-profits and education clients using the MERN stack.
           </>,
           <>
-            Led a cross-functional team to launch a new product line,
-            contributing to a 15% increase in overall company revenue.
+            API Development and Monitoring: Built scalable RESTful APIs with
+            Node.js and Express, and optimized performance using New Relic and
+            Datadog.
+          </>,
+          <>
+            Security and Feature Enhancements: Strengthened security with OAuth
+            and JWT, and collaborated with teams to implement features that
+            improved product satisfaction.
           </>,
         ],
         images: [],
