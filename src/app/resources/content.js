@@ -74,7 +74,7 @@ const about = {
   },
   calendar: {
     display: true,
-    link: 'https://calendly.com/tomvsdoan/15min-meeting',
+    link: 'https://calendly.com/haroldt977/30min',
   },
   intro: {
     display: true,
@@ -97,12 +97,19 @@ const about = {
         role: 'Senior Software Engineer',
         achievements: [
           <>
-            Redesigned the UI/UX for the FLY platform, resulting in a 20%
-            increase in user engagement and 30% faster load times.
+            Full-Stack Development: Designed and maintained applications for
+            various businesses, leveraging technologies like React, Next.js,
+            Node.js, Java, Python, and AI.
           </>,
           <>
-            Spearheaded the integration of AI tools into design workflows,
-            enabling designers to iterate 50% faster.
+            Infrastructure and Integrations: Streamlined deployments with AWS,
+            Azure, and CI/CD tools while enhancing user engagement with Twilio,
+            SendGrid, and push notifications.
+          </>,
+          <>
+            Scalable Monitoring: Ensured reliability with Prometheus and
+            Grafana, delivering tailored solutions across industries in Agile
+            teams.
           </>,
         ],
         images: [
