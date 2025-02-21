@@ -156,10 +156,10 @@ export default function Home({
           </RevealFx>
         </Flex>
       </Flex>
-      <Projects range={[2]} locale={locale} />
       <RevealFx translateY="16" delay={0.6}>
         <Projects range={[1, 1]} locale={locale} />
       </RevealFx>
+      <Projects range={[2]} locale={locale} />
       {routes['/blog'] && (
         <Flex fillWidth gap="24" mobileDirection="column">
           <Flex flex={1} paddingLeft="l">
