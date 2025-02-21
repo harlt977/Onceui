@@ -182,36 +182,135 @@ const about = {
     title: 'Technical skills',
     skills: [
       {
-        title: 'Figma',
-        description: (
-          <>Able to prototype in Figma with Once UI with unnatural speed.</>
-        ),
+        title: 'Program Languages',
+        description: <>JavaScript, TypeScript, Python, PHP</>,
         images: [
           {
-            src: '/images/projects/project-01/cover-02.jpg',
-            alt: 'Project image',
-            width: 16,
-            height: 9,
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg',
+            alt: 'JavaScript',
+            width: 3,
+            height: 3,
           },
           {
-            src: '/images/projects/project-01/cover-03.jpg',
-            alt: 'Project image',
-            width: 16,
-            height: 9,
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg',
+            alt: 'TypeScript',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg',
+            alt: 'Python',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg',
+            alt: 'PHP',
+            width: 3,
+            height: 3,
           },
         ],
       },
       {
-        title: 'Next.js',
+        title: 'Front-End',
         description: (
-          <>Building next gen apps with Next.js + Once UI + Supabase.</>
+          <>
+            React.js, React Native, Next.js, Angular, Svelte, Tailwind CSS,
+            Vite, Figma
+          </>
         ),
         images: [
           {
-            src: '/images/projects/project-01/cover-04.jpg',
-            alt: 'Project image',
-            width: 16,
-            height: 9,
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg',
+            alt: 'React',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg',
+            alt: 'Angular',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg',
+            alt: 'Tailwind CSS',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg',
+            alt: 'Svelte',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain.svg',
+            alt: 'jQuery',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg',
+            alt: 'Vite',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg',
+            alt: 'Figma',
+            width: 3,
+            height: 3,
+          },
+        ],
+      },
+      {
+        title: 'Back-End',
+        description: (
+          <>Node.js, Express.js, Nest.js, MySQL, MongoDB, PostgreSQL, Redis</>
+        ),
+        images: [
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg',
+            alt: 'Node.js',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg',
+            alt: 'Express.js',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg',
+            alt: 'Nest.js',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg',
+            alt: 'MySQL',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg',
+            alt: 'PostgreSQL',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg',
+            alt: 'MongoDB',
+            width: 3,
+            height: 3,
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg',
+            alt: 'Redis',
+            width: 3,
+            height: 3,
           },
         ],
       },
