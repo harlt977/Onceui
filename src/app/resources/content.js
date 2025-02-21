@@ -125,7 +125,7 @@ const about = {
       {
         company: 'MindBridge',
         timeframe: '11/2018 - 03/2020',
-        role: 'Lead Designer',
+        role: 'Software Development Engineer',
         achievements: [
           <>
             Developed AI-Driven Financial Platform: Contributed to building an
@@ -145,7 +145,7 @@ const about = {
       {
         company: 'Sylogist',
         timeframe: '02/2016 - 09/2018',
-        role: 'Lead Designer',
+        role: 'Software Developer',
         achievements: [
           <>
             Developed SaaS Solutions: Contributed to building SaaS products for
