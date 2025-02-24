@@ -7,7 +7,7 @@ import classNames from 'classnames';
 import { Footer, Header, RouteGuard } from '@/components';
 import { baseURL, effects, style } from '@/app/resources';
 
-import { Inter } from 'next/font/google';
+import { Roboto } from 'next/font/google';
 import { Source_Code_Pro } from 'next/font/google';
 
 import { NextIntlClientProvider } from 'next-intl';
@@ -56,7 +56,8 @@ export async function generateMetadata({
   };
 }
 
-const primary = Inter({
+const primary = Roboto({
+  weight: ['400', '700'],
   variable: '--font-primary',
   subsets: ['latin'],
   display: 'swap',
